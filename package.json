@@ -1,0 +1,26 @@
+{
+  "name": "@ssk193/tea-thang193",
+  "version": "1.0.4",
+  "description": "tea-thang193",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sasukem193/tea-thang193"
+  },
+  "keywords": [
+    "thang193"
+  ],
+  "author": "thang193",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sasukem193/tea-thang193/issues"
+  },
+  "homepage": "https://github.com/sasukem193/tea-thang193#readme",
+  "dependencies": {
+    "tea-thang193": "^1.0.4"
+  },
+  "devDependencies": {}
+}
